@@ -1,4 +1,4 @@
-# 🎯 FaceTrack: AI-powered Liveliness Verifier 📷🧠
+# 🎯 FaceTrack: AI-powered Liveliness Verifier 📷🧠 2026 
 
 > Real-time face recognition & liveliness detection system built with OpenCV, dlib, CNNs, Flask & MySQL — enabling lightning-fast authentication and attendance automation.
 
